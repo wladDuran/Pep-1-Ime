@@ -1,0 +1,37 @@
+Capítulo 1:
+	- Variables y parámetros (Características y unidades de  medición)
+	- Importación de datos y paquetes
+	- Contrucción de matrices de datos
+Capítulo 2:
+	- Estadísticas descriptivas (Moda, media...)
+	- Datos categóricos
+	- Gráficos
+Capítulo 3:
+	- Variables aleatorias
+	- Distribuciones(Normal, 
+			Z: técnica de estandarización,
+			chi-cuadrado: grados de libertad, tirado hacia la derecha,
+			T student,
+			Distribuación F: usada para comparar varianzas)
+	- Distribuciones discretas:
+		- Bernoulli: exito o fracaso
+		- Geométrica: cantidad de intentos que debemos realizar para obtener un éxito
+		- Binomial: probabilidad de tener k éxitos en n intentos independientes
+		- Binomial negativa: probabilidad de encontrar el k éxito al n intento
+		- Poisson: cantidad de eventos de una población EN UN LAPSO DE TIEMPO
+Capítulo 4:
+	- Estimadores puntuales
+	- Modelos estadísticos
+	- Error estándar
+	- Intervalos de confianza
+	- PRUEBAS DE HIPOTESIS:
+		H0 debe ser una situación de estabilidad (=)
+		Ha situación de inestabilidad (lo que se quiere demostrar)
+		if p<alfa: se rechaza h0 en favor de ha
+		else: se acepta ha
+
+		Bilateral: En la hipótesis alternativa aparece el signo distinto.
+		Unilateral: En la hipótesis alternativa aparece o el signo > o el signo <.
+	- Prueba formal de hipótesis (valor p)
+	- Estimadores puntuales con distribución cercana a la normal
+	- Estimadores con otras distribuciones
