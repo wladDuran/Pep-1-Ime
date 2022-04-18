@@ -35,3 +35,24 @@ Capítulo 4:
 	- Prueba formal de hipótesis (valor p)
 	- Estimadores puntuales con distribución cercana a la normal
 	- Estimadores con otras distribuciones
+Capítulo 5: Inferencia con medias muestrales
+	- Prueba Z (inferir acerca de las medias)
+	- Prueba t de student
+	- T student 2 muestras pareadas
+	- T 2 muestras independientes
+Capítulo 6: Poder estadístico
+	- Nivel de significación y tamaño de muestra
+	- Cálculo teórico del poder
+Capítulo 7: Inferencia con proporciones
+	- Método de Wald (Qué proporción de las ejecuciones de un algoritmo de ordenamiento para instancias con 100.000 elementos (bajo iguales condiciones de hardware y sistema) tardan menos de 25 segundos
+	- Método de Wilson (alternativa más robusta)
+	- Poder y pruebas de proporciones
+Capítulo 8: inferencia no paramétrica con proporciones
+	- Chi cuadrado de Pearson (homogeneidad)
+	- Chi bondad de ajuste (ver si una distribución se asemeja a la esperada)
+	- Chi de independencia (ver si 2 variables son estadísticamente independientes)
+	- Para muestras pequeñas:
+		- Fisher (ambas variables son dicotómicas)
+		- mcNemar (misma característica dicotómica se mide 2 veces en el mismo sujeto)
+	- Q de Cochran (mcNemar cuando una variable tiene más de 2 observaciones pareadas)
+	
